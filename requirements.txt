@@ -1,0 +1,8 @@
+pandas
+numpy
+rdkit
+torch
+scikit-learn
+matplotlib
+jupyter
+mlflow
